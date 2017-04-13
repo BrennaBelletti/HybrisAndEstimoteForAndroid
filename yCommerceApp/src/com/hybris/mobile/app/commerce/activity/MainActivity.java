@@ -36,6 +36,7 @@ import android.widget.ListView;
 import android.widget.SearchView;
 import android.widget.TextView;
 
+import com.estimote.sdk.SystemRequirementsChecker;
 import com.hybris.mobile.app.commerce.CommerceApplication;
 import com.hybris.mobile.app.commerce.R;
 import com.hybris.mobile.app.commerce.adapter.MainMenuAdapter;
@@ -363,6 +364,9 @@ public abstract class MainActivity extends ApplicationActivity implements Scanne
     @Override
     protected void onResume() {
         super.onResume();
+
+        //Request runtime permissionsn from user
+        SystemRequirementsChecker.checkWithDefaultDialogs(this);
 
         // Submit crash to HockeyApp
         HockeyAppUtils.checkForCrashes(this);
