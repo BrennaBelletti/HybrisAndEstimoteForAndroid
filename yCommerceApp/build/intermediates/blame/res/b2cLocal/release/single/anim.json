@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\pop_exit.xml",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\anim\\pop_exit.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\brenna.m.belletti\\.android\\build-cache\\2e9437a179773751325daff2064d52b43d10d278\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\pop_enter.xml",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\anim\\pop_enter.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\move_left.xml",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\anim\\move_left.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\brenna.m.belletti\\.android\\build-cache\\2e9437a179773751325daff2064d52b43d10d278\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\brenna.m.belletti\\.android\\build-cache\\2e9437a179773751325daff2064d52b43d10d278\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\translate_right_to_origin.xml",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\anim\\translate_right_to_origin.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\brenna.m.belletti\\.android\\build-cache\\2e9437a179773751325daff2064d52b43d10d278\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\bounce.xml",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\move_up.xml",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\anim\\move_up.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\brenna.m.belletti\\.android\\build-cache\\2e9437a179773751325daff2064d52b43d10d278\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\brenna.m.belletti\\.android\\build-cache\\2e9437a179773751325daff2064d52b43d10d278\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\translate_origin_to_left.xml",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\anim\\translate_origin_to_left.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\move_right.xml",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\anim\\move_right.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\logo_anim.xml",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\anim\\logo_anim.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\enter.xml",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\anim\\enter.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\brenna.m.belletti\\.android\\build-cache\\2e9437a179773751325daff2064d52b43d10d278\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\brenna.m.belletti\\.android\\build-cache\\2e9437a179773751325daff2064d52b43d10d278\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\fade_in.xml",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\brenna.m.belletti\\.android\\build-cache\\2e9437a179773751325daff2064d52b43d10d278\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\expand.xml",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\anim\\expand.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\collapse.xml",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\anim\\collapse.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\exit.xml",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\anim\\exit.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\brenna.m.belletti\\.android\\build-cache\\2e9437a179773751325daff2064d52b43d10d278\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\translate_left_to_origin.xml",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\anim\\translate_left_to_origin.xml"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\release\\anim\\translate_origin_to_right.xml",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\anim\\translate_origin_to_right.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Thu Apr 13 12:10:28 EDT 2017
+base.0=C\:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\transforms\\dex\\b2bDev\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=C\:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\transforms\\dex\\b2bDev\\debug\\folders\\1000\\5\\slice_2\\classes.dex

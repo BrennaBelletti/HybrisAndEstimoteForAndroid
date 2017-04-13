@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\question.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\question.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\login_logo.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\b2b\\res\\drawable-xhdpi\\login_logo.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\icon_scan.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\icon_scan.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\no_image_product.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\no_image_product.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\b2b_icon_stores.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\b2b_icon_stores.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\cart_icon.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\cart_icon.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\cart_icon_blueplus.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\cart_icon_blueplus.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\spinner_arrow_dark.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\spinner_arrow_dark.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\drawer_shadow.9.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\b2b_icon_orders.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\b2b_icon_orders.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\minus_icon.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\minus_icon.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\close_icon.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\close_icon.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\b2b_icon_catalog.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\b2b_icon_catalog.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\directions_icon.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\directions_icon.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\forward_icon.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\forward_icon.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\arrow_right_big.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\arrow_right_big.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\ic_subnav_grid_blue.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\ic_subnav_grid_blue.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\collapse_icon.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\collapse_icon.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\ic_subnav_line_blue.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\ic_subnav_line_blue.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\plus_icon.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\plus_icon.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\icon_search.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\icon_search.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\b2b_icon_dashboard.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\b2b_icon_dashboard.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\back_icon.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\back_icon.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\handle_anchor.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\handle_anchor.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\icon_login.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\icon_login.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\ic_subnav_list_blue.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\ic_subnav_list_blue.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\app_logo.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\b2b\\res\\drawable-xhdpi\\app_logo.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\cart_icon_blueplus_disable.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\cart_icon_blueplus_disable.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\catalog_logo.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\catalog_logo.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\b2b_icon_cart.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\b2b_icon_cart.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\order_form_icon.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\order_form_icon.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\ic_reset.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\ic_reset.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\ic_drawer.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\b2b\\dev\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\checked.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\checked.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\y_logo.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\y_logo.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\b2b_icon_account.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\b2b_icon_account.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\arrow_left_big.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\arrow_left_big.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\sort_up_icon.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\sort_up_icon.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\icon_search_grey.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\icon_search_grey.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\sort_down_icon.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\sort_down_icon.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\icon_delete.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\icon_delete.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\arrow_right.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\arrow_right.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\icon_cancel.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\icon_cancel.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\expand_icon.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\expand_icon.png"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2bDev\\debug\\drawable-xhdpi\\call_icon.png",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\res\\drawable-xhdpi\\call_icon.png"
+    }
+]

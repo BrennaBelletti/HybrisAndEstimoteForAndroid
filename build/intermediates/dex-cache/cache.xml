@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\hack2\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yB2BLibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d21f86bde05fefb65017bfbcdf2a666f05939577">
+        <dex dex="C:\hack2\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2bDev\debug\classes_b7a7bf14ef4aa27dee776c85fc5b5ec5a735b43a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\hack2\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yB2CLibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b21086701243d389c63b4e4951498e4342d790c2">
+        <dex dex="C:\hack2\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2cLocal\debug\classes_e5f753a88f49c0809baf7d141b866190447f09ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\hack2\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yScannerLibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63676786bcf005abfb4c3ba401bad898d8970a15">
+        <dex dex="C:\hack2\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2bDev\debug\classes_0cb0d8d2b3f0ca949a5f28b04b6878074c2f0956.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\hack2\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yHTTPClientLibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2bb975c786942450d09d2aefcb7287f5e44c0c7">
+        <dex dex="C:\hack2\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2bDev\debug\classes_f29b51df3ebd7b33bde4ec910925036cdc9a3cb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\hack2\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceLibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a6dfd1baa62f4df1df69875b6272cbcd8caf8ac">
+        <dex dex="C:\hack2\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2bDev\debug\classes_5b9e7642f1c519da44bebbb0da2797bb29ad574f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\hack2\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yLocationLibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0f71f46c56f4514888c5f1c59d0d85d6fe162607">
+        <dex dex="C:\hack2\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2bDev\debug\classes_160dbe37fbb20c0e7880f2ca359cb32ca1210282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\hack2\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yUILibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2cc8e968e2db64d5bb92fe07f4c8967e4925a3b">
+        <dex dex="C:\hack2\hybris-Mobile-Apps-SDK\hybris-Mobile-Apps-SDK-Android\yCommerceApp\build\intermediates\pre-dexed\b2bDev\debug\classes_0c43a7b56e65776f737302e2cfc4bda2a601cb38.jar" />
+    </item>
+
+</items>

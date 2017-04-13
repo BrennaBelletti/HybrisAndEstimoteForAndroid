@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\raw\\entering_geofence.mp3",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yLocationLibrary\\build\\intermediates\\bundles\\default\\res\\raw\\entering_geofence.mp3"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\raw\\leaving_geofence.mp3",
+        "source": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yLocationLibrary\\build\\intermediates\\bundles\\default\\res\\raw\\leaving_geofence.mp3"
+    },
+    {
+        "merged": "C:\\hack2\\hybris-Mobile-Apps-SDK\\hybris-Mobile-Apps-SDK-Android\\yCommerceApp\\build\\intermediates\\res\\merged\\b2cLocal\\debug\\raw\\zxing_beep.ogg",
+        "source": "C:\\Users\\brenna.m.belletti\\.android\\build-cache\\9c999fd26907400ac247d932e44201acf5eb3bab\\output\\res\\raw\\zxing_beep.ogg"
+    }
+]
